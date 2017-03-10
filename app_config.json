@@ -1,0 +1,5 @@
+{ 
+  "AWS_REGION": "us-west-2",
+  "STARTUP_SIGNUP_TABLE": "my-startup-signup-table",
+  "NEW_SIGNUP_TOPIC": "arn:aws:sns:us-west-2:483314674134:my-sns-topic"
+}
